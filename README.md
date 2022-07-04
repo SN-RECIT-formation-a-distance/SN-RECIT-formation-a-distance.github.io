@@ -1,1 +1,1 @@
-# https-sn-recit-formation-a-distance.github.io-
+# https-sn-recit-formation-a-distance.github.io
