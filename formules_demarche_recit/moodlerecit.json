@@ -1,0 +1,26 @@
+{
+	"php": "PHP 7.3",
+	"db": "MySQL 8",
+	"so": "Ubuntu/Debian",
+	"webserver": "Apache 2",
+	"moodle": "Moodle 3.9.2+",
+    "msg1": "<b>Configuration requise</b>",
+    "msg2": "Nous ne garantissons pas le fonctionnement avec une autre configuration.",
+    "msg3" : "<p>Des thèmes de cours ont été développés par le récit. Exemple : récit_histoire pour le cours d'histoire. Pour les appliquer, il faut autoriser les thèmes de cours sur la plateforme.</p><ul><li> Administration du site / Présentation / Réglages thème</li><li> Cocher : Autoriser les thèmes de cours</li></ul> <p>Pour ajuster le thème d'un cours, il faut aller dans le cours, cliquer sur paramètres et déplier la section « Apparence ».</p>",
+    "msg4" : "       <b>Vérifier la configuration suivante (Pour ajouter les icônes nécessaires) :</b></li>        <dd><code>edit =  vvvebjs, html, embedquestion </br>brcollapse = collapse </br> style1 = title, bold, italic, fontcolor, backcolor </br>list = unorderedlist, orderedlist </br>links = link </br>files = image, media, recordrtc, managefiles, h5p </br>style2 = underline, strike, ubscript, superscript </br>align = align  </br>indent = indent </br>insert = equation, charmap, table, clear </br>undo = undo </br>accessibility = accessibilitychecker,accessibilityhelper                                           </code></dd>    </ol></li>",
+    "imgtaille": "https://recitfad.ca/moodledocs/images/moodle/image102.png",
+    "imgembed": "https://recitfad.ca/moodledocs/images/moodle/image77.png",
+    "imgautoinc":"https://recitfad.ca/moodledocs/images/moodle/image14.png",
+    "imgautoincao" : "https://recitfad.ca/moodledocs/images/moodle/image18.png",
+    "imgdepot" : "https://recitfad.ca/moodledocs/images/moodle/image214.png",
+    "infofitre" : "https://recitfad.ca/moodledocs/images/moodle/image173.png",
+    "recitmod" :  ["recitcahiercanada","tab","recitactivity","questionnaire"],
+    "recitfilter" : ["recitcahiercanada","recitactivity"],
+    "recitatto" : [ "recitbetterlink","vvvebjs","circuit"],
+    "recitlocal": ["recitcheckinstallation","recitcommon","recitdashboard","recitgestioncontenu","recitunusedquestions"],
+    "recitthemes": ["recit","recit_anglais","recit_art","recit_francais","recit_histoire","recit_mathematique","recit_science"],
+    "recitformat": ["treetopics"],
+    "recitavailability": ["recitgrade"],
+    "recitreports": ["recitcheckinstallation"]
+
+}
